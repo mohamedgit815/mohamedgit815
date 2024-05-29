@@ -13,7 +13,7 @@
 - Design Pattern
 - Problem Sloving
 - State Managment(Bloc, RiverPod, Provider, Getx)
-- Restful Api, Graphql, web3
+- Restful Api / Graphql / web3
 - Firebase(AppDistribution, RemoteConfig, FCM)
 - Google Maps
 - Payments(Stripe, Paypal)
@@ -26,6 +26,9 @@
 - Express
 - MongoDB
 - Firebase(Auth, Storage, FireStore)
+
+#### Contact Me:-
+- Feel free to reach out to me on <a href="https://www.linkedin.com/in/mohamed57" data-href-domain="linkedin.com">Linked In</a> or via email at mohamedalsheref815@email.com. I'm always open to new collaborations and interesting discussions.
 
 <!---
 mohamedgit815/mohamedgit815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
