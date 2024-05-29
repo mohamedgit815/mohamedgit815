@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @mohamedgit815
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Abbout:- 
+  i am a flutter developer with over 3 years experience
+  of Flutter, a year in Node Js for Restful API, with my
+  solid background I have a big experience in
+  debugging and troubleshooting applications to
+  ensure they are running smoothly, also i have some
+  experiencein like Firebase GoogleMap Payments
+  Socketio web3 and Graphql.
+
+- Clean Architecture
+- Opp
+- Design Pattern
+- Problem Sloving
+- State Managment(Bloc, RiverPod, Provider, Getx)
+- Restful Api, Graphql, web3
+- Firebase
+- Google Maps
+- Payments(Stripe, Paypal)
+- Responsive UI
+- SqfLite / Hive / SharedPreferences
+- Localization
+- my simple knowledge about backend:-
 - NodeJs
 - Express
 - Mongodb
