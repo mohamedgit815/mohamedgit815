@@ -28,11 +28,11 @@
 - Firebase(Auth, Storage, FireStore)
 
 #### Projects:-
-- <a href="https://github.com/mohamedgit815/Flutter_commerce" data-href-domain="github.com">E-Commerce Restful Api</a>
+- <a href="https://github.com/mohamedgit815/Flutter_commerce" data-href-domain="github.com" target="_blank">E-Commerce Restful Api</a>
 - Nodejs / Socket io / Google Map / Live Location / Stripe / Paypal / Firebase / Localizations / FCM
-- <a href="https://github.com/mohamedgit815/Chat_App" data-href-domain="github.com"> Chat </a>
+- <a href="https://github.com/mohamedgit815/Chat_App" data-href-domain="github.com" target="_blank"> Chat </a>
 - Firebase / Storage / Firestore / Auth / RemoteConfig / App Distribution / FCM
-- <a href="https://github.com/mohamedgit815/Commerce-Firebase" data-href-domain="github.com">E-Commerce</a>
+- <a href="https://github.com/mohamedgit815/Commerce-Firebase" data-href-domain="github.com" target="_blank">E-Commerce</a>
 - Firebase / Storage / Firestore / Auth / RemoteConfig / App Distribution / Stripe / Paypal 
 
 #### Contact Me:-
