@@ -4,7 +4,7 @@
   solid background I have a big experience in
   debugging and troubleshooting applications to
   ensure they are running smoothly, also i have some
-  experiencein like Firebase GoogleMap Payments
+  experience in like Firebase GoogleMap Payments
   Socketio web3 and Graphql.
 
 #### Flutter:-
